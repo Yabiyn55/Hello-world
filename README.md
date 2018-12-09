@@ -1,2 +1,4 @@
 # Hello-world
-just another
+
+Hi.i'm Yabiyn.
+I'm going to learn c++,come on.
